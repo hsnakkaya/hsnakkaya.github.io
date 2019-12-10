@@ -53,13 +53,11 @@
 .klynt-button-1 {
 	color: rgba(255,255,255,0.5);
 	font-family: Built Titling,sans-serif;
-	font-size: 64px;
+	font-size: 120px;
 	font-weight: regular;
 	text-align: center;
 	text-decoration: none;
 	line-height: 0.1;
-	border: 1px solid rgba(0,0,0,1);
-	border-radius: 0px;
 }
 
 .klynt-button-1:hover {

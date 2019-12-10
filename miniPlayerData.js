@@ -1,15 +1,15 @@
 klynt.miniPlayerData = {
     "thanksForWatchingWording": "Thanks for watching!",
     "resumePlaybackWording": "Resume playback?",
-    "launchAppWording": "Then Launch Project",
+    "fullscreenInfoWording": "This program will launch in fullscreen",
     "yesWording": "Yes",
-    "title": "hosgeldin_2020",
-    "thumbnail": "Medias/Thumbnails/hosgelsin_2020_background-01.jpg.jpg",
+    "title": "h_2020",
+    "thumbnail": "Medias/Posters/h2020_main_template_rotate_Screen.mp4.jpg",
     "noWording": "No",
     "analyticsKey": "",
-    "fullscreenInfoWording": "This program will launch in fullscreen",
-    "redirectToMobileApp": "always",
     "downloadAppWording": "Download App",
+    "redirectToMobileApp": "always",
+    "launchAppWording": "Then Launch Project",
     "url": "",
-    "description": "non-responsive"
+    "description": "responsive"
 }

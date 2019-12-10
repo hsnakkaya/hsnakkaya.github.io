@@ -173,16 +173,16 @@
 
 @font-face {
 	font-family: Built Titling;
-	font-weight: light;
+	font-weight: normal;
 	font-style: normal;
-	src: url('fonts/built-titling.light.ttf') format('truetype');
+	src: url('fonts/built-titling.regular.ttf') format('truetype');
 }
 
 @font-face {
 	font-family: Built Titling;
-	font-weight: normal;
+	font-weight: light;
 	font-style: normal;
-	src: url('fonts/built-titling.regular.ttf') format('truetype');
+	src: url('fonts/built-titling.light.ttf') format('truetype');
 }
 
 @font-face {
@@ -195,30 +195,12 @@
 }
 
 @font-face {
-	font-family: Crimson Text;
-	font-weight: normal;
-	font-style: italic;
-	src: url('fonts/CrimsonText-Italic.eot');
-	src: url('fonts/CrimsonText-Italic.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/CrimsonText-Italic.ttf') format('truetype');
-}
-
-@font-face {
 	font-family: Dancing Script;
 	font-weight: bold;
 	font-style: normal;
 	src: url('fonts/DancingScript-Bold.eot');
 	src: url('fonts/DancingScript-Bold.eot?#iefix') format('embedded-opentype'),
 	     url('fonts/DancingScript-Bold.ttf') format('truetype');
-}
-
-@font-face {
-	font-family: Crimson Text;
-	font-weight: roman;
-	font-style: normal;
-	src: url('fonts/CrimsonText-Roman.eot');
-	src: url('fonts/CrimsonText-Roman.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/CrimsonText-Roman.ttf') format('truetype');
 }
 
 @font-face {
@@ -231,12 +213,21 @@
 }
 
 @font-face {
-	font-family: Lato;
-	font-weight: bold;
+	font-family: Crimson Text;
+	font-weight: roman;
 	font-style: normal;
-	src: url('fonts/Lato-Bold.eot');
-	src: url('fonts/Lato-Bold.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/Lato-Bold.ttf') format('truetype');
+	src: url('fonts/CrimsonText-Roman.eot');
+	src: url('fonts/CrimsonText-Roman.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/CrimsonText-Roman.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: Crimson Text;
+	font-weight: normal;
+	font-style: italic;
+	src: url('fonts/CrimsonText-Italic.eot');
+	src: url('fonts/CrimsonText-Italic.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/CrimsonText-Italic.ttf') format('truetype');
 }
 
 @font-face {
@@ -250,11 +241,11 @@
 
 @font-face {
 	font-family: Lato;
-	font-weight: normal;
-	font-style: italic;
-	src: url('fonts/Lato-Italic.eot');
-	src: url('fonts/Lato-Italic.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/Lato-Italic.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+	src: url('fonts/Lato-Bold.eot');
+	src: url('fonts/Lato-Bold.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/Lato-Bold.ttf') format('truetype');
 }
 
 @font-face {
@@ -267,12 +258,12 @@
 }
 
 @font-face {
-	font-family: Lobster Two;
+	font-family: Lato;
 	font-weight: normal;
 	font-style: italic;
-	src: url('fonts/LobsterTwo-Italic.eot');
-	src: url('fonts/LobsterTwo-Italic.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/LobsterTwo-Italic.ttf') format('truetype');
+	src: url('fonts/Lato-Italic.eot');
+	src: url('fonts/Lato-Italic.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/Lato-Italic.ttf') format('truetype');
 }
 
 @font-face {
@@ -285,12 +276,21 @@
 }
 
 @font-face {
+	font-family: Lobster Two;
+	font-weight: normal;
+	font-style: italic;
+	src: url('fonts/LobsterTwo-Italic.eot');
+	src: url('fonts/LobsterTwo-Italic.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/LobsterTwo-Italic.ttf') format('truetype');
+}
+
+@font-face {
 	font-family: Simonetta;
-	font-weight: black;
+	font-weight: normal;
 	font-style: normal;
-	src: url('fonts/Simonetta-Black.eot');
-	src: url('fonts/Simonetta-Black.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/Simonetta-Black.ttf') format('truetype');
+	src: url('fonts/Simonetta-Regular.eot');
+	src: url('fonts/Simonetta-Regular.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/Simonetta-Regular.ttf') format('truetype');
 }
 
 @font-face {
@@ -304,10 +304,10 @@
 
 @font-face {
 	font-family: Simonetta;
-	font-weight: normal;
+	font-weight: black;
 	font-style: normal;
-	src: url('fonts/Simonetta-Regular.eot');
-	src: url('fonts/Simonetta-Regular.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/Simonetta-Regular.ttf') format('truetype');
+	src: url('fonts/Simonetta-Black.eot');
+	src: url('fonts/Simonetta-Black.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/Simonetta-Black.ttf') format('truetype');
 }
 
