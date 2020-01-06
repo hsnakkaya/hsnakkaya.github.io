@@ -4,7 +4,7 @@ klynt.miniPlayerData = {
     "fullscreenInfoWording": "This program will launch in fullscreen",
     "yesWording": "Yes",
     "title": "Secim_haftasi",
-    "thumbnail": "Medias/Photos/secimler_2020_28_Mart_Persembe_2_28_Mart_Persembe.jpg",
+    "thumbnail": "Medias/Posters/rotate_phone.mp4.jpg",
     "noWording": "No",
     "analyticsKey": "",
     "redirectToMobileApp": "always",
