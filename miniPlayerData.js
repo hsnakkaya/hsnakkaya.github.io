@@ -3,13 +3,13 @@ klynt.miniPlayerData = {
     "resumePlaybackWording": "Resume playback?",
     "fullscreenInfoWording": "This program will launch in fullscreen",
     "yesWording": "Yes",
-    "title": "h_2020",
-    "thumbnail": "Medias/Posters/h2020_main_template_rotate_Screen.mp4.jpg",
+    "title": "Secim_haftasi",
+    "thumbnail": "Medias/Photos/secimler_2020_28_Mart_Persembe_2_28_Mart_Persembe.jpg",
     "noWording": "No",
     "analyticsKey": "",
-    "downloadAppWording": "Download App",
     "redirectToMobileApp": "always",
-    "launchAppWording": "Then Launch Project",
+    "downloadAppWording": "Download App",
     "url": "",
-    "description": "responsive"
+    "launchAppWording": "Then Launch Project",
+    "description": "31mart"
 }

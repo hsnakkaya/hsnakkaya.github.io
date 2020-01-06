@@ -138,13 +138,6 @@
 }
 
 @font-face {
-	font-family: Radio Newsman;
-	font-weight: normal;
-	font-style: normal;
-	src: url('fonts/RadioNewsman.ttf') format('truetype');
-}
-
-@font-face {
 	font-family: Stardos Stencil;
 	font-weight: bold;
 	font-style: normal;
@@ -172,17 +165,12 @@
 }
 
 @font-face {
-	font-family: Built Titling;
+	font-family: Crimson Text;
 	font-weight: normal;
-	font-style: normal;
-	src: url('fonts/built-titling.regular.ttf') format('truetype');
-}
-
-@font-face {
-	font-family: Built Titling;
-	font-weight: light;
-	font-style: normal;
-	src: url('fonts/built-titling.light.ttf') format('truetype');
+	font-style: italic;
+	src: url('fonts/CrimsonText-Italic.eot');
+	src: url('fonts/CrimsonText-Italic.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/CrimsonText-Italic.ttf') format('truetype');
 }
 
 @font-face {
@@ -192,15 +180,6 @@
 	src: url('fonts/CrimsonText-Bold.eot');
 	src: url('fonts/CrimsonText-Bold.eot?#iefix') format('embedded-opentype'),
 	     url('fonts/CrimsonText-Bold.ttf') format('truetype');
-}
-
-@font-face {
-	font-family: Dancing Script;
-	font-weight: bold;
-	font-style: normal;
-	src: url('fonts/DancingScript-Bold.eot');
-	src: url('fonts/DancingScript-Bold.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/DancingScript-Bold.ttf') format('truetype');
 }
 
 @font-face {
@@ -222,12 +201,12 @@
 }
 
 @font-face {
-	font-family: Crimson Text;
-	font-weight: normal;
-	font-style: italic;
-	src: url('fonts/CrimsonText-Italic.eot');
-	src: url('fonts/CrimsonText-Italic.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/CrimsonText-Italic.ttf') format('truetype');
+	font-family: Dancing Script;
+	font-weight: bold;
+	font-style: normal;
+	src: url('fonts/DancingScript-Bold.eot');
+	src: url('fonts/DancingScript-Bold.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/DancingScript-Bold.ttf') format('truetype');
 }
 
 @font-face {
@@ -237,6 +216,15 @@
 	src: url('fonts/Lato-Regular.eot');
 	src: url('fonts/Lato-Regular.eot?#iefix') format('embedded-opentype'),
 	     url('fonts/Lato-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: Lato;
+	font-weight: normal;
+	font-style: italic;
+	src: url('fonts/Lato-Italic.eot');
+	src: url('fonts/Lato-Italic.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/Lato-Italic.ttf') format('truetype');
 }
 
 @font-face {
@@ -255,15 +243,6 @@
 	src: url('fonts/LobsterTwo-Bold.eot');
 	src: url('fonts/LobsterTwo-Bold.eot?#iefix') format('embedded-opentype'),
 	     url('fonts/LobsterTwo-Bold.ttf') format('truetype');
-}
-
-@font-face {
-	font-family: Lato;
-	font-weight: normal;
-	font-style: italic;
-	src: url('fonts/Lato-Italic.eot');
-	src: url('fonts/Lato-Italic.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/Lato-Italic.ttf') format('truetype');
 }
 
 @font-face {
@@ -286,11 +265,11 @@
 
 @font-face {
 	font-family: Simonetta;
-	font-weight: normal;
+	font-weight: black;
 	font-style: normal;
-	src: url('fonts/Simonetta-Regular.eot');
-	src: url('fonts/Simonetta-Regular.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/Simonetta-Regular.ttf') format('truetype');
+	src: url('fonts/Simonetta-Black.eot');
+	src: url('fonts/Simonetta-Black.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/Simonetta-Black.ttf') format('truetype');
 }
 
 @font-face {
@@ -304,10 +283,10 @@
 
 @font-face {
 	font-family: Simonetta;
-	font-weight: black;
+	font-weight: normal;
 	font-style: normal;
-	src: url('fonts/Simonetta-Black.eot');
-	src: url('fonts/Simonetta-Black.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/Simonetta-Black.ttf') format('truetype');
+	src: url('fonts/Simonetta-Regular.eot');
+	src: url('fonts/Simonetta-Regular.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/Simonetta-Regular.ttf') format('truetype');
 }
 
